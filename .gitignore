@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Run outputs and intermediate analysis files (large, not part of this repository)
+*_results.zip
+*.npy
+*.npz
+figdata/
+figs/
+
+# Output of dataset/synthetic/generate_synthetic.py (regenerate it instead of committing it)
+synthetic_arithmetic_regenerated.csv

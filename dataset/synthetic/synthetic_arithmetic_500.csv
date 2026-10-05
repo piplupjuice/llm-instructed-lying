@@ -1,0 +1,501 @@
+question,answer,n_ops,difficulty
+What is (265 - 203) / (18 / 9)?,31,3,hard
+What is 68 + (40 + (15 + 196))?,319,3,hard
+What is (540 / 2) + 116?,386,2,medium
+What is (374 + 194) / (72 / 9)?,71,3,hard
+What is (375 - 314) * 7?,427,2,medium
+What is 91 * (5 * ((5 * 11) / 11))?,2275,4,very hard
+What is 2 * 31?,62,1,easy
+What is 55 - 33?,22,1,easy
+What is 448 - ((151 + 95) + 175)?,27,3,hard
+What is (2723 - (6798 / (2 * 3))) - 1220?,370,4,very hard
+What is (231 + 493) - 365?,359,2,medium
+What is 435 - ((167 * 3) - 79)?,13,3,hard
+What is (37 * 9) - (61 * 4)?,89,3,hard
+What is 3 * 13?,39,1,easy
+What is (532 - 323) * 2?,418,2,medium
+What is 10 * 8?,80,1,easy
+What is 5392 - (4928 / (8 / (12 / 3)))?,2928,4,very hard
+What is (2830 / 5) * ((255 + 1475) - 1727)?,1698,4,very hard
+What is 242 + (10 + 66)?,318,2,medium
+What is ((530 - 290) / 2) + 234?,354,3,hard
+What is 168 / 2?,84,1,easy
+What is (((522 - 120) + 1003) + 554) + 2305?,4264,4,very hard
+What is 989 + ((2344 / (1925 - 1917)) * 18)?,6263,4,very hard
+What is 102 / 6?,17,1,easy
+What is (810 + 2666) / ((72 / 9) / 4)?,1738,4,very hard
+What is 994 / (298 - 296)?,497,2,medium
+What is 147 + ((303 - 267) + 47)?,230,3,hard
+What is 1 + 2?,3,1,easy
+What is ((5039 - 4460) * 3) + (6234 / 2)?,4854,4,very hard
+What is (933 - (124 + 191)) / 3?,206,3,hard
+What is (242 + 859) / 3?,367,2,medium
+What is 5853 + ((2105 + 3054) / (4 + 3))?,6590,4,very hard
+What is 501 + ((30 - 26) * 7)?,529,3,hard
+What is 24 / 12?,2,1,easy
+What is 2 * 35?,70,1,easy
+What is (3894 / (2957 - 2946)) + (484 / 4)?,475,4,very hard
+What is 82 - 53?,29,1,easy
+What is (3807 - 2410) + (692 - (393 + 66))?,1630,4,very hard
+What is (77 + 23) + (250 / 5)?,150,3,hard
+What is 56 - 3?,53,1,easy
+What is (6674 - (4678 - 2347)) - (4730 - 4598)?,4211,4,very hard
+What is ((52 * 39) / (36 / 3)) * 36?,6084,4,very hard
+What is (13 * 74) - (2 * 23)?,916,3,hard
+What is (5086 * (80 / 8)) / (4629 - 4619)?,5086,4,very hard
+What is (137 * 30) / 10?,411,2,medium
+What is 967 - ((384 - 328) / 8)?,960,3,hard
+What is ((227 + 175) * 9) + (731 * 8)?,9466,4,very hard
+What is 719 * ((64 + 13) / (4 + 7))?,5033,4,very hard
+What is 88 / 4?,22,1,easy
+What is ((8211 - 4920) / 3) + (2738 + 1876)?,5711,4,very hard
+What is 699 - (228 + 76)?,395,2,medium
+What is (428 / 4) + 273?,380,2,medium
+What is (303 - 141) + (489 - 274)?,377,3,hard
+What is (12 / 4) + 12?,15,2,medium
+What is (38 + 58) * 5?,480,2,medium
+What is 6 * (470 / 10)?,282,2,medium
+What is (3 * 97) - (2 * 13)?,265,3,hard
+What is 593 - (952 / 4)?,355,2,medium
+What is 23 * ((4985 - (6436 - 3236)) - 1762)?,529,4,very hard
+What is 3 * 19?,57,1,easy
+What is (90 / 5) * 11?,198,2,medium
+What is 154 - 77?,77,1,easy
+What is 152 / 4?,38,1,easy
+What is 35 + 5?,40,1,easy
+What is (5485 + (1153 + (6592 / 8))) - 4063?,3399,4,very hard
+What is ((533 - 442) * 67) / 7?,871,3,hard
+What is (136 * 25) / 8?,425,2,medium
+What is (117 - 101) * 29?,464,2,medium
+What is 2 + (420 / 12)?,37,2,medium
+What is (900 - 290) / (30 / 6)?,122,3,hard
+What is 1107 + ((1665 - (5379 - 3745)) + 131)?,1269,4,very hard
+What is (5100 / 12) + ((199 * 9) - 1384)?,832,4,very hard
+What is 28 / 4?,7,1,easy
+What is (546 / 2) / 7?,39,2,medium
+What is 84 * (25 / 5)?,420,2,medium
+What is 18 + 58?,76,1,easy
+What is 28 * 2?,56,1,easy
+What is 100 - 4?,96,1,easy
+What is (24 / 8) * 31?,93,2,medium
+What is (174 / 6) * (399 - 394)?,145,3,hard
+What is (1314 * ((102 * 4) - 392)) / 3?,7008,4,very hard
+What is 185 + (618 / 3)?,391,2,medium
+What is 116 + (8 * (282 / 6))?,492,3,hard
+What is 170 / (96 - 86)?,17,2,medium
+What is (1961 - 1891) * (433 - (254 + 148))?,2170,4,very hard
+What is 140 + ((24 + 343) + 399)?,906,3,hard
+What is (6375 * (48 / 12)) / (40 / 10)?,6375,4,very hard
+What is 640 - ((37 * 13) - 404)?,563,3,hard
+What is (3 * (10 / 5)) * 45?,270,3,hard
+What is (141 + 18) * ((3008 - 2861) / 7)?,3339,4,very hard
+What is 86 / 2?,43,1,easy
+What is (332 - (251 - 75)) + 111?,267,3,hard
+What is 2144 + ((9 + 28) * (2680 - 2663))?,2773,4,very hard
+What is ((9768 - 1859) * (2217 - 2204)) / 11?,9347,4,very hard
+What is (1 + 9) * 32?,320,2,medium
+What is 715 / (30 / 6)?,143,2,medium
+What is 60 / 6?,10,1,easy
+What is 13 + (504 / (2 * 4))?,76,3,hard
+What is 40 / 2?,20,1,easy
+What is (20 * 14) - 112?,168,2,medium
+What is 11 * 6?,66,1,easy
+What is 116 - 19?,97,1,easy
+What is (660 - 62) - 215?,383,2,medium
+What is 11 * (((2487 - 2176) + 77) / 4)?,1067,4,very hard
+What is 186 / 2?,93,1,easy
+What is ((669 * 13) - 1473) - (200 * 3)?,6624,4,very hard
+What is 25 + (52 + 14)?,91,2,medium
+What is (6212 - (743 + (6 + 25))) / 2?,2719,4,very hard
+What is 1082 * ((420 - 364) / (4 * 2))?,7574,4,very hard
+What is (438 + 32) - 199?,271,2,medium
+What is 19 + 60?,79,1,easy
+What is 134 - 39?,95,1,easy
+What is 520 + ((11 * 11) * (12 + 5))?,2577,4,very hard
+What is (170 + (184 / 2)) + 305?,567,3,hard
+What is 15 * (6 * 5)?,450,2,medium
+What is ((821 - 450) - 346) / 5?,5,3,hard
+What is 11 + 31?,42,1,easy
+What is (12 / 2) * (52 - 28)?,144,3,hard
+What is 70 + 14?,84,1,easy
+What is 37 * 2?,74,1,easy
+What is 17 * (187 / 11)?,289,2,medium
+What is 6 + (295 - 66)?,235,2,medium
+What is (130 / 10) * (31 + 13)?,572,3,hard
+What is 17 * 3?,51,1,easy
+What is 6728 - (((15 * 3) + 128) * 17)?,3787,4,very hard
+What is (6540 - ((9625 - 2958) - 4963)) + 1963?,6799,4,very hard
+What is 40 / 10?,4,1,easy
+What is (119 - 87) + (2 * 53)?,138,3,hard
+What is (180 / (40 / 10)) + 237?,282,3,hard
+What is 14 + 11?,25,1,easy
+What is 61 + 3?,64,1,easy
+What is (593 + (49 + 623)) / 11?,115,3,hard
+What is ((23 + 163) - 81) + 607?,712,3,hard
+What is 303?,303,3,hard
+What is 718 + ((656 - 383) - 195)?,796,3,hard
+What is 82 - 34?,48,1,easy
+What is 90 + (258 / 2)?,219,2,medium
+What is 166 / 2?,83,1,easy
+What is 6 * 3?,18,1,easy
+What is (287 * ((1676 - 1669) + 31)) - 3470?,7436,4,very hard
+What is (410 * 13) / ((198 / 9) / 11)?,2665,4,very hard
+What is (2003 * 7) - (885 + (470 + 2770))?,9896,4,very hard
+What is (401 * ((144 / 8) / 6)) + 1176?,2379,4,very hard
+What is 47 - 42?,5,1,easy
+What is 52 + ((25 + 29) * 2)?,160,3,hard
+What is 2 * 7?,14,1,easy
+What is (243 / (4346 - 4343)) + (3876 / 4)?,1050,4,very hard
+What is 1 + 3?,4,1,easy
+What is (43 * 70) / (500 - 495)?,602,3,hard
+What is ((1879 * 3) * 2) - (2526 + 398)?,8350,4,very hard
+What is (((14 + 8736) / 7) - 1001) + 558?,807,4,very hard
+What is 1700 + (1320 / (96 / (24 / 3)))?,1810,4,very hard
+What is (486 - (312 - 133)) - 236?,71,3,hard
+What is 994 - ((849 * 2) / 6)?,711,3,hard
+What is (3840 - (1 + 3)) - (20 + 3739)?,77,4,very hard
+What is 149 - 65?,84,1,easy
+What is 192 / ((84 / 7) / 6)?,96,3,hard
+What is (124 * 18) / (149 - 137)?,186,3,hard
+What is (3 * 3) * 52?,468,2,medium
+What is ((3 * 13) * 21) * (9 + 2)?,9009,4,very hard
+What is 738 - ((962 - 17) / 9)?,633,3,hard
+What is 54 / (72 / 12)?,9,2,medium
+What is (4 * (32 / 8)) * (622 - 530)?,1472,4,very hard
+What is (25 * 29) - (95 * 5)?,250,3,hard
+What is 2 * 44?,88,1,easy
+What is 910 / (115 - 105)?,91,2,medium
+What is 549 - (203 / (42 / 6))?,520,3,hard
+What is (1 + 7) * 47?,376,2,medium
+What is 172 * ((275 * 2) / (1 + 9))?,9460,4,very hard
+What is ((188 + 47) * (2532 - 2479)) / 5?,2491,4,very hard
+What is 30 - 13?,17,1,easy
+What is (7 * 3) * 6?,126,2,medium
+What is (83 - 62) / 3?,7,2,medium
+What is ((432 + 259) * 5) / 5?,691,3,hard
+What is 108 / 3?,36,1,easy
+What is ((192 + 223) * 2) + 20?,850,3,hard
+What is (570 + 602) / (12 / 3)?,293,3,hard
+What is (536 - 331) + 55?,260,2,medium
+What is (281 - 274) * (49 / 7)?,49,3,hard
+What is 8 + 27?,35,1,easy
+What is (7850 / 5) / (20 / (8 / 2))?,314,4,very hard
+What is ((7 * 52) / 4) * (23 + 30)?,4823,4,very hard
+What is 41 * ((252 / 2) / 6)?,861,3,hard
+What is 2 * 43?,86,1,easy
+What is (496 - 486) + 2?,12,2,medium
+What is 25 + 24?,49,1,easy
+What is 553 * (((36 / 4) + 5) / 7)?,1106,4,very hard
+What is 300 - (630 / 10)?,237,2,medium
+What is 60 + 30?,90,1,easy
+What is 111 * ((374 - 368) / 2)?,333,3,hard
+What is (101 + (262 * 2)) / 5?,125,3,hard
+What is 30 + 14?,44,1,easy
+What is 6 * 4?,24,1,easy
+What is (421 * 2) + (87 + 70)?,999,3,hard
+What is 14 * 7?,98,1,easy
+What is (1141 / 7) * (11 * (14 / 7))?,3586,4,very hard
+What is (1442 / 7) + (714 / (48 / 8))?,325,4,very hard
+What is 15 + 58?,73,1,easy
+What is (133 * 2) - 92?,174,2,medium
+What is 2045 + (8623 - ((242 + 581) + 931))?,8914,4,very hard
+What is ((67 + 276) / 7) + 79?,128,3,hard
+What is 3237 / (33 / (121 / (88 / 8)))?,1079,4,very hard
+What is 338 - (5 * 12)?,278,2,medium
+What is 8441 - (3470 - ((5640 / 3) / 10))?,5159,4,very hard
+What is 147 * ((2968 / (4502 - 4495)) / 8)?,7791,4,very hard
+What is (613 - 402) * 2?,422,2,medium
+What is (57 / 3) * 3?,57,2,medium
+What is (364 - 356) * (427 / 7)?,488,3,hard
+What is 46 - 23?,23,1,easy
+What is 110 + (600 / 6)?,210,2,medium
+What is ((120 / 12) + 5) * 61?,915,3,hard
+What is (728 / 8) + 110?,201,2,medium
+What is (833 - 43) / 5?,158,2,medium
+What is (4382 - 1502) / (45 / (27 / 3))?,576,4,very hard
+What is (4331 - 4175) * ((561 + 4011) - 4529)?,6708,4,very hard
+What is (80 / 8) * (81 - 38)?,430,3,hard
+What is 24 / 8?,3,1,easy
+What is 495 - ((129 + 333) / 7)?,429,3,hard
+What is (1267 / (1763 - 1756)) * (125 / 5)?,4525,4,very hard
+What is (2700 + (24 + 445)) - (474 + 830)?,1865,4,very hard
+What is 102 - 18?,84,1,easy
+What is 94 / 2?,47,1,easy
+What is 60 - 26?,34,1,easy
+What is 11 * (7 * 3)?,231,2,medium
+What is ((3483 + 2652) + 2149) / (2059 - 2055)?,2071,4,very hard
+What is (168 / 12) * (171 / 9)?,266,3,hard
+What is 13 * (179 - 175)?,52,2,medium
+What is (1030 + ((218 * 13) + 619)) + 2680?,7163,4,very hard
+What is (982 - 72) / 10?,91,2,medium
+What is (131 * (330 / 11)) / 6?,655,3,hard
+What is 8 * (102 / 2)?,408,2,medium
+What is 23 + 5?,28,1,easy
+What is 50 / 10?,5,1,easy
+What is (670 / 5) + (60 + 11)?,205,3,hard
+What is (2 * 28) * 7?,392,2,medium
+What is 47 - 8?,39,1,easy
+What is 818 / (8 / (16 / 4))?,409,3,hard
+What is (5915 - 1267) - ((9196 - 4032) / 2)?,2066,4,very hard
+What is (3 + 9) * (864 / 12)?,864,3,hard
+What is (6 + 1) * 70?,490,2,medium
+What is 2 * 5?,10,1,easy
+What is 5010 - ((6467 - (5404 / 4)) - 1723)?,1617,4,very hard
+What is 4267 - (320 + ((3651 / 3) * 3))?,296,4,very hard
+What is (219 * 4) - (654 - 284)?,506,3,hard
+What is (9175 - 736) - (6165 / (1051 - 1046))?,7206,4,very hard
+What is 243 - (712 / 4)?,65,2,medium
+What is 33 + 16?,49,1,easy
+What is (3 * 3) * 31?,279,2,medium
+What is 61 * (168 - (79 + 73))?,976,3,hard
+What is 4 + 67?,71,1,easy
+What is 4 * 14?,56,1,easy
+What is 596 / (103 - 99)?,149,2,medium
+What is ((378 - 354) + 216) / 5?,48,3,hard
+What is (910 - 270) + (336 - 237)?,739,3,hard
+What is (8 + 4) + 90?,102,2,medium
+What is 149 - (236 / 2)?,31,2,medium
+What is 559 - ((936 - 45) - 497)?,165,3,hard
+What is 24 + (714 / (2 + 4))?,143,3,hard
+What is ((281 * 38) - (137 * 7)) - 3401?,6318,4,very hard
+What is 513 - (13 * 2)?,487,2,medium
+What is ((382 + (576 / 8)) - 290) * 4?,656,4,very hard
+What is (482 - 385) + (2 * 7)?,111,3,hard
+What is 2 * 47?,94,1,easy
+What is (59 * (2058 - 2049)) * (5 * 3)?,7965,4,very hard
+What is 1 + (265 - 262)?,4,2,medium
+What is (144 / 4) + 28?,64,2,medium
+What is (5 * 3) * (3 * 4)?,180,3,hard
+What is (5 * 3) * (11 * 2)?,330,3,hard
+What is (2693 + (151 * 13)) + (285 + 59)?,5000,4,very hard
+What is 117 - (109 - (333 / 9))?,45,3,hard
+What is (16 * 2) * 9?,288,2,medium
+What is 3 * (3 + 39)?,126,2,medium
+What is (354 + (269 - 219)) / 2?,202,3,hard
+What is 41 + (7 * 14)?,139,2,medium
+What is 126 / 3?,42,1,easy
+What is 19 + 19?,38,1,easy
+What is (7320 / 8) + (650 + (3628 - 3565))?,1628,4,very hard
+What is 196 * ((132 + 12) - 140)?,784,3,hard
+What is 5 * 13?,65,1,easy
+What is ((214 * 2) - 310) * 3?,354,3,hard
+What is 2226 * ((2431 - 1770) - (2219 - 1561))?,6678,4,very hard
+What is 114 - 97?,17,1,easy
+What is (22 + 79) * (312 - 304)?,808,3,hard
+What is (7 * 23) - (204 / 12)?,144,3,hard
+What is (54 * ((4 * 3) / 2)) + 187?,511,4,very hard
+What is (477 / 9) * 2?,106,2,medium
+What is (((7359 - 2389) - 4878) / 2) + 1536?,1582,4,very hard
+What is 26 + ((45 * 10) / 6)?,101,3,hard
+What is 133 / 7?,19,1,easy
+What is 16 * (2 * (4 * 4))?,512,3,hard
+What is 2 * (504 / 9)?,112,2,medium
+What is 2 + 2?,4,1,easy
+What is (538 - (675 / 5)) - 284?,119,3,hard
+What is 163 * (253 - 251)?,326,2,medium
+What is 16 * (2 + (6 / 6))?,48,3,hard
+What is (110 + 896) * ((264 - 224) / 8)?,5030,4,very hard
+What is 6 * (20 * 2)?,240,2,medium
+What is 9660 / ((25 / (3560 - 3555)) + 7)?,805,4,very hard
+What is 45 - 39?,6,1,easy
+What is 44 + 1?,45,1,easy
+What is 135 / 9?,15,1,easy
+What is 5 + 41?,46,1,easy
+What is (39 * 17) - (80 + 57)?,526,3,hard
+What is ((2441 * 2) * 2) / (2 * 2)?,2441,4,very hard
+What is 14 + (2 * 2)?,18,2,medium
+What is ((370 / 2) / (2233 - 2228)) * 98?,3626,4,very hard
+What is (49 + 74) / (476 - 473)?,41,3,hard
+What is (937 - 193) / 12?,62,2,medium
+What is (2 * 68) + (68 / 4)?,153,3,hard
+What is 122 - 97?,25,1,easy
+What is (857 - 233) / 2?,312,2,medium
+What is 9 * (3 * (180 - 167))?,351,3,hard
+What is 94 - 11?,83,1,easy
+What is 157 + ((822 - 492) + 46)?,533,3,hard
+What is (1195 + 349) / ((3354 - 2375) - 977)?,772,4,very hard
+What is (1 + 4) * 37?,185,2,medium
+What is 56 - 45?,11,1,easy
+What is (3 * (3704 - (145 * 25))) * 8?,1896,4,very hard
+What is 14 * (612 / (54 / 6))?,952,3,hard
+What is 167 * (((2037 + 168) - 2186) * 2)?,6346,4,very hard
+What is (70 + 1783) - (1 + (2 * 4))?,1844,4,very hard
+What is 265 / (69 - 64)?,53,2,medium
+What is 12 / 4?,3,1,easy
+What is 61 + 10?,71,1,easy
+What is (23 * 16) * ((2 * 2) * 2)?,2944,4,very hard
+What is (731 - 111) - (600 / 10)?,560,3,hard
+What is (214 + 6547) - ((8810 + 5204) / 7)?,4759,4,very hard
+What is (75 / 5) + (156 / 6)?,41,3,hard
+What is 56 / 8?,7,1,easy
+What is ((2 + 1) * 3) * 94?,846,3,hard
+What is (((8121 * 5) - 3355) - 2258) / 12?,2916,4,very hard
+What is ((833 + 5174) - 4318) + (2823 + 3094)?,7606,4,very hard
+What is 111 + (396 / 9)?,155,2,medium
+What is ((77 + 50) + (2 * 86)) * 33?,9867,4,very hard
+What is 38 - 16?,22,1,easy
+What is ((2 * 22) * 6) + 248?,512,3,hard
+What is (133 * (6 + 1)) / 7?,133,3,hard
+What is 6163 + ((7785 / 3) + (4938 - 4273))?,9423,4,very hard
+What is (828 / 2) - (225 / 3)?,339,3,hard
+What is 5912 + (1745 * ((75 * 31) - 2323))?,9402,4,very hard
+What is (658 - 418) / 8?,30,2,medium
+What is 25 / 5?,5,1,easy
+What is 2165 - ((101 + (2 * 19)) * 7)?,1192,4,very hard
+What is 962 / (10 / 5)?,481,2,medium
+What is (1176 + ((403 + 1048) + 1740)) * 2?,8734,4,very hard
+What is (50 + 116) / 2?,83,2,medium
+What is 16 * (552 - (49 * 10))?,992,3,hard
+What is (11 + 2) * (247 - 225)?,286,3,hard
+What is (1410 / (36 / 12)) / (4651 - 4649)?,235,4,very hard
+What is 30 / 2?,15,1,easy
+What is ((499 * 5) + (4478 - 4129)) * 2?,5688,4,very hard
+What is (4189 - 4092) + ((3544 - 3024) * 12)?,6337,4,very hard
+What is 53 * (18 / 9)?,106,2,medium
+What is (869 - 443) / 2?,213,2,medium
+What is 32 + 14?,46,1,easy
+What is 3 * 14?,42,1,easy
+What is 250 + (132 + 49)?,431,2,medium
+What is 266 + (((9360 / 2) / 3) / 8)?,461,4,very hard
+What is 514 - ((190 + 51) * 2)?,32,3,hard
+What is 63 - 46?,17,1,easy
+What is 53 + 19?,72,1,easy
+What is ((6125 - 2734) - (12 * 58)) / 5?,539,4,very hard
+What is (540 - 420) / 8?,15,2,medium
+What is 56 + (421 - 416)?,61,2,medium
+What is (71 * ((6 * 60) / 8)) - 2315?,880,4,very hard
+What is 688 - (652 - 207)?,243,2,medium
+What is (25 * 7) + (760 / 5)?,327,3,hard
+What is 5551 - (7279 - (5405 - (4320 / 6)))?,2957,4,very hard
+What is 30 - 26?,4,1,easy
+What is 946 - (87 + ((754 + 2113) - 2794))?,786,4,very hard
+What is 2 * 2?,4,1,easy
+What is 40 + (236 - 209)?,67,2,medium
+What is (18 / 9) + 6?,8,2,medium
+What is 197 + (18 + 22)?,237,2,medium
+What is (5 + 23) * (2 * 17)?,952,3,hard
+What is 10 * (413 - (106 * 3))?,950,3,hard
+What is 263 * ((1753 * 2) - (1425 + 2057))?,6312,4,very hard
+What is (268 - (51 + 110)) * 4?,428,3,hard
+What is 46 + (477 / 3)?,205,2,medium
+What is 38 + 17?,55,1,easy
+What is (665 / 5) - 91?,42,2,medium
+What is ((1006 * 13) - 4701) - (8412 / 6)?,6975,4,very hard
+What is 120 / 4?,30,1,easy
+What is 67?,67,1,easy
+What is 440?,440,2,medium
+What is 171 - 73?,98,1,easy
+What is (295 * 5) / 5?,295,2,medium
+What is 16 * 5?,80,1,easy
+What is 60 / 4?,15,1,easy
+What is 2 * 9?,18,1,easy
+What is (29 * 35) - (13 * 17)?,794,3,hard
+What is (5580 / 6) + ((6415 - 3606) * 3)?,9357,4,very hard
+What is 66 / 2?,33,1,easy
+What is 36 / 4?,9,1,easy
+What is 58 + 31?,89,1,easy
+What is ((76 / 4) * 19) - 59?,302,3,hard
+What is 7748 / ((24 / (5 + 3)) + 1)?,1937,4,very hard
+What is 552 - (44 + 141)?,367,2,medium
+What is 1 + (31 + 151)?,183,2,medium
+What is 482 / (41 - 39)?,241,2,medium
+What is 2 * 3?,6,1,easy
+What is 1657 * ((14 / (4840 - 4833)) + 1)?,4971,4,very hard
+What is (686 / 7) / (14 / 2)?,14,3,hard
+What is 23 * (35 / 5)?,161,2,medium
+What is 4 * (29 + 8)?,148,2,medium
+What is 478 - (286 / 2)?,335,2,medium
+What is (111 - 106) * 99?,495,2,medium
+What is ((52 * 14) / 8) * (14 + 48)?,5642,4,very hard
+What is (23 - 16) + (162 - 44)?,125,3,hard
+What is 150 / 6?,25,1,easy
+What is 2 * 8?,16,1,easy
+What is (7 * 2) * 20?,280,2,medium
+What is 216 + (522 / (18 / 3))?,303,3,hard
+What is 14 * 3?,42,1,easy
+What is (26 * 54) / 12?,117,2,medium
+What is 5 * 12?,60,1,easy
+What is 104 - 86?,18,1,easy
+What is 253 + (261 / (24 / 8))?,340,3,hard
+What is 189 / 7?,27,1,easy
+What is ((1554 - 939) * 24) / (1 + 11)?,1230,4,very hard
+What is 88 + (85 + 174)?,347,2,medium
+What is ((143 - 139) * 2) * 14?,112,3,hard
+What is 17 * 2?,34,1,easy
+What is ((4 * 4) + 88) * (6 + 24)?,3120,4,very hard
+What is ((182 / 2) * (4618 - 4527)) - 3986?,4295,4,very hard
+What is 3 * 3?,9,1,easy
+What is 6991 - (3295 / (1413 - (4224 / 3)))?,6332,4,very hard
+What is 112 - 52?,60,1,easy
+What is 23 + 24?,47,1,easy
+What is 21 + (3 * (2 + 1))?,30,3,hard
+What is (26 + 6) + 19?,51,2,medium
+What is ((9 + 2) * 68) * (7 + 5)?,8976,4,very hard
+What is 19 * 5?,95,1,easy
+What is 65 + (215 - 149)?,131,2,medium
+What is (1502 * ((72 / 3) / 2)) / 3?,6008,4,very hard
+What is (439 * 3) / 3?,439,2,medium
+What is (2585 - 1425) + ((5637 * 8) / 8)?,6797,4,very hard
+What is (360 / (7 + 2)) + 78?,118,3,hard
+What is 90 / 9?,10,1,easy
+What is 65 + (19 * 4)?,141,2,medium
+What is (9887 - 4103) - ((3072 / 12) + 4373)?,1155,4,very hard
+What is (47 * 2) + 53?,147,2,medium
+What is (8 * 4) * ((88 / 11) * 8)?,2048,4,very hard
+What is (369 / 9) + (169 + 44)?,254,3,hard
+What is ((109 * 23) + (5897 * 2)) / 7?,2043,4,very hard
+What is 75 + 14?,89,1,easy
+What is (326 * (38 / 2)) - (1579 * 3)?,1457,4,very hard
+What is (148 / (44 / 11)) * 5?,185,3,hard
+What is 3 * 5?,15,1,easy
+What is (18 / 6) + (162 / 9)?,21,3,hard
+What is (72 / 3) * (175 - 140)?,840,3,hard
+What is (360 / (110 / 11)) + 4?,40,3,hard
+What is 74 - 25?,49,1,easy
+What is (505 - 25) - (134 * 2)?,212,3,hard
+What is 123 - (166 - 62)?,19,2,medium
+What is 34 + (8 + 21)?,63,2,medium
+What is 11 + 79?,90,1,easy
+What is 27 * ((123 - 110) + 2)?,405,3,hard
+What is 70 / 7?,10,1,easy
+What is (333 - 278) - 31?,24,2,medium
+What is 100 - 57?,43,1,easy
+What is (2028 + (750 / 2)) + (8560 / 10)?,3259,4,very hard
+What is 736 - ((546 / 3) - 109)?,663,3,hard
+What is (592 - 341) + 219?,470,2,medium
+What is 64 - 49?,15,1,easy
+What is ((3 * 76) / 4) * (23 * 2)?,2622,4,very hard
+What is (532 * (74 - 72)) / 8?,133,3,hard
+What is (217 * 3) + ((1750 / 5) + 85)?,1086,4,very hard
+What is (636 / 6) + 24?,130,2,medium
+What is 75 - 24?,51,1,easy
+What is (114 + 103) + 136?,353,2,medium
+What is 564 - (846 - 456)?,174,2,medium
+What is (122 + 441) + (76 + 42)?,681,3,hard
+What is 4 + 74?,78,1,easy
+What is (((5823 + 1804) - 270) / 7) * 2?,2102,4,very hard
+What is 69 + 16?,85,1,easy
+What is (101 - 98) * 67?,201,2,medium
+What is 406 + ((989 - 229) - 248)?,918,3,hard
+What is (61 * (6 + (203 / 7))) * 3?,6405,4,very hard
+What is (273 - 24) + 159?,408,2,medium
+What is 700 / ((301 + 48) - 345)?,175,3,hard
+What is 549 - (474 - 143)?,218,2,medium
+What is 22 * ((38 * 7) - 253)?,286,3,hard
+What is 21 * (375 - 352)?,483,2,medium
+What is 157 - 82?,75,1,easy
+What is (836 * (2 + 1)) / 12?,209,3,hard
+What is 303 + (((3278 - 2182) + 1655) + 726)?,3780,4,very hard
+What is 1002 + ((1465 - 477) / (8 / 2))?,1249,4,very hard
+What is (44 / 11) * 70?,280,2,medium
+What is ((4079 - 4055) + 10) * (3165 - 3139)?,884,4,very hard
+What is (24 + 7) + 296?,327,2,medium
+What is (7 * 23) * 2?,322,2,medium
+What is (334 - 271) * 7?,441,2,medium
+What is 993 / (325 - 322)?,331,2,medium
+What is 2639 + ((4272 / 8) + (251 * 5))?,4428,4,very hard
+What is 888 - (120 + 301)?,467,2,medium
+What is (831 / 3) - 244?,33,2,medium
+What is 168 + (280 - (46 * 5))?,218,3,hard
+What is (322 + 129) + (3 * 36)?,559,3,hard
+What is ((481 - 480) + 2) * 13?,39,3,hard

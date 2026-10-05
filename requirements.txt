@@ -1,0 +1,15 @@
+# Versions recorded by the pipeline in each run's paper/reproducibility/environment.json
+# (Kaggle, Python 3.12.13, 2 x Tesla T4).
+numpy==2.0.2
+pandas==2.3.3
+torch==2.10.0
+transformers==5.0.0
+scikit-learn==1.6.1
+scipy==1.16.3
+umap-learn==0.5.12
+
+# Used by the code; version not recorded in environment.json.
+math-verify
+matplotlib
+joblib
+huggingface_hub

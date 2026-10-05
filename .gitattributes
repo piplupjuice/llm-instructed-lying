@@ -1,0 +1,2 @@
+# Keep the dataset files byte-for-byte identical to the files the runs used (their SHA-256 is recorded in the README).
+dataset/** -text
